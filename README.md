@@ -1,0 +1,1 @@
+# GO-compilator-in-python
