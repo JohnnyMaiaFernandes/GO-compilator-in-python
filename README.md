@@ -1,1 +1,2 @@
-# GO-compilator-in-python
+# GO-compilador
+-in-python
